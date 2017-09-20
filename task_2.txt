@@ -1,0 +1,26 @@
+﻿\s(o|O)[A-Za-z0-9-!"#$%&'()*+,./:;<=>?@[\\\]_`{|}~]+@[A-Za-z0-9-!"#$%&'()*+,./:;<=>?@[\\\]_`{|}~]+[.][a-z]\s
+
+22
+
+o - outlook.team@enron.com 
+o - outlook.team@enron.com 
+O - Outlook.2000@enron.com 
+o - on-yild@zdemail.zdlists.com 
+o - owner-strawbale@crest.org 
+o - owner-strawbale@crest.org 
+o - owner-strawbale@crest.org 
+o - owner-strawbale@crest.org 
+o - outlook.team@enron.com 
+O - Outlook.2000@enron.com 
+o - outlook-migration-team@enron.com 
+o - outlook-migration-team@enron.com 
+o - ove@commissioner.com 
+o - online.service@schwab.com 
+o - open2win.0ll1.net@mailman.enron.com 
+o - oportunity@cells4free.com 
+o - on-yild@zdemail.zdlists.com 
+o - owner-strawbale@crest.org 
+o - owner-strawbale@crest.org 
+o - owner-strawbale@crest.org 
+o - owner-strawbale@crest.org 
+O - Outlook.2000@enron.com
